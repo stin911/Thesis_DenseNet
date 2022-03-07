@@ -1,7 +1,5 @@
 # BMSDeepLearning
-
-Fix TODO:
-- argpars boolean value doesn't work
-- Maked order in get-features method
-- clean it
--
+-Preprocessing: Segmentation Lungs using threshold
+- Dense-net architecture
+- Utility
+- Metric used: ROC-AUC curves and score
